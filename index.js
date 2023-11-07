@@ -8,7 +8,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: false }))
 
 const port = 5000;
-const token = 'EAAOvlJCvt2gBOw1KeuyN5AZAlrmhxYDHr113oCm7Pi5z5XdgScWxAYlJEZBot9Y368m7qLnH24GbZAcbJW4xC6kCURbLl9fDNA6YjsdzhDNEOjaJQJcIrH0lamZB3QQdlnsQhFQfAhVgynrRnOXtUqgS3mQEQ2ld16yoxl43iJoPVG96r2TttSluA6QFAAW2RHgwXETVl5hhEoSBtpYZD'
+const token = ''
 
 
 app.get('/*',(req,res) => {
