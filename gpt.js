@@ -1,7 +1,7 @@
 import OpenAI from "openai"
 
-const token = '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'
-const org = 'org-XL9DyYt4nP4khUfesEDpYxwP'
+const token = ''
+const org = ''
 
 
 const openai = new OpenAI({
