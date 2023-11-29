@@ -1,6 +1,6 @@
 # Whatsapp Bot for Chatgpt
 
-Experience chatGPT in whatsapp.
+Experience chatGPT in whatsapp.To use this service go to [TextGPT](https://tgpt.in/)
 
 
 ## Run Locally
